@@ -1,5 +1,6 @@
 ﻿using System;
 
+//new new new 
 namespace Лаб_2
 {
     class Program
